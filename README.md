@@ -2,6 +2,9 @@
 [![Download button](https://img.shields.io/badge/download-here-green.svg)](http://bit.ly/CSGOmarketfloat)
 
 # CSGO-Market-Float-Finder
+
+It's outdated
+
 Find Counter Strike: Global Offensive Steam Market skin float values, seeds, and skin type. Tabulates data for easy sorting.
 
 ![alt tag](http://i.imgur.com/q2Dqh51.png?1)
